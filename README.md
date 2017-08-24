@@ -1,29 +1,27 @@
-# React Rally 2017
+# React Rally 2017 Notes
+Notes and Examples from React Rally 2017 in Salt Lake City, UT.
 
 ## Day 1
 
 ### Michael Jackson - 9:00 AM
-Speaker: [Michael Jackson](https://github.com/mjackson)
-Topic: Unpkg.com
-Twitter: @unpkg
-Demos: https://github.com/unpkg/unpkg-demos
+Speaker: [Michael Jackson](https://github.com/mjackson)<br>
+Topic: Unpkg.com<br>
+Twitter: @unpkg<br>
+Demos: https://github.com/unpkg/unpkg-demos<br>
+Local: (unpkg-demos) <br>
 
-See (unpkg-demos)
-
-What is it?
-- Global CDN for everything on npm
-- Quickly and easily load any file from any package
-
+- What is it?
+    - Global CDN for everything on npm
+    - Quickly and easily load any file from any package
 - Module support is coming to browsers
 
 "Just imagine what a cool world it would be if everyone only loaded React once..."
 
 ### Shirley Wu - 9:30 AM
-Speaker: [Shirley Wu](https://github.com/sxywu)
-Topic: D3 and React
-Presentation Link: https://github.com/sxywu/react-d3
-
-See (react-d3)
+Speaker: [Shirley Wu](https://github.com/sxywu)<br>
+Topic: D3 and React<br>
+Presentation Link: https://github.com/sxywu/react-d3<br>
+Local: (react-d3) <br>
 
 - Data visualization
 - Who *needs* control of the DOM?
