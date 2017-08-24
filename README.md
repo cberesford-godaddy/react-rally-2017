@@ -160,3 +160,81 @@ const pageBody = () => ([
 - Fiber makes React renderers easier to build
 
 `npm install --save react@next react-dom@next`
+
+### ReacTex - Bonnie Milián - 2:30 PM
+Speaker: [Bonnie Milián](https://github.com/BonnieMilian) <br>
+Topic: ReacTex: using React Native and Neural Networks to recognize handwritten equations <br>
+Twitter: [@BonnieMilianB](https://twitter.com/BonnieMilianB) <br>
+Presentation Link: N/A <br>
+Local: N/A <br>
+
+**Notes:**
+- How to get started with Deep Learning
+    + IBM Watson
+    + GCP
+    + Udacity: Deep Learning Nanodegree Foundation
+    + Coursera: Deep Learning Specialization
+
+### React Native for Web - Nicolas Gallagher - 4:00 PM
+Speaker: [Nicolas Gallagher](https://github.com/necolas) <br>
+Topic: Twitter Lite, React Native, and Progressive Web Apps handwritten equations <br>
+Twitter: [@necolas](https://twitter.com/necolas) <br>
+Presentation Link: N/A <br>
+Local: N/A <br>
+
+**Notes:**
+- React Native for Web: https://github.com/necolas/react-native-web
+- React is becoming a *Software Development Platform* (it's more than just a frontend framework)
+- React is focused on separation of concerns rather than separation of technologies (i.e. you can see HTML, CSS, and JS in a component)
+- React native is easier and simpler than React DOM
+    + Contains standard foundations for abstractions (touch events, scaling, etc.)
+- https://glitch.com/edit/#!/rnw
+
+### React-ing htmlFor=empathy - Jana Beck - 4:30 PM
+Speaker: [Jana Beck](https://github.com/jebeck) <br>
+Topic: React-ing htmlFor=empathy <br>
+Twitter: [@BonnieMilianB](https://twitter.com/iPancreas) <br>
+Presentation Link: https://github.com/jebeck/diving-bell-talk <br>
+Local: [diving-bell-talk](diving-bell-talk) <br>
+
+**Notes:**
+- https://divingbell.io/
+- https://github.com/jebeck/diving-bell
+- Uses open-source technology called [Webgazer](https://github.com/brownhci/WebGazer)
+
+### Redux + ServiceWorker = Offline React - Zack Argyle - 5:00 PM
+Speaker: [Zack Argyle](https://github.com/zackargyle) <br>
+Topic: Redux + ServiceWorker = Offline React <br>
+Twitter: [@ZackArgyle](https://twitter.com/ZackArgyle) <br>
+Presentation: N/A <br>
+Local: N/A <br>
+
+**Notes:**
+- https://github.com/pinterest/service-workers
+- Service workers are essentially the secretary for your app - they'll make requests to servers for you.
+- Service Workers
+    + Network Proxy
+    + Precaching
+    + Runtime Caching
+    + Push Notifications
+    + Background Sync
+    + Offline Network Management
+- Service Worker Fetch Strategies
+    + Prefer cache
+    + Cache only
+    + Offline only
+    + Network only - don't cache anything
+    + Race/Fastest - sometimes it takes longer to look up from cache than to request from the server
+- How to register a Service Worker:
+
+```
+if ('servieWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js');
+}
+```
+
+- App Shell
+    + Generic/Cacheable
+    + Progressively loads app
+    + Fast TTFP
+    + **If you care about SEO, continue to server render**

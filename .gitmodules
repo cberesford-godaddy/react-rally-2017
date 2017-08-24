@@ -4,3 +4,6 @@
 [submodule "unpkg-demos"]
 	path = unpkg-demos
 	url = https://github.com/unpkg/unpkg-demos.git
+[submodule "diving-bell-talk"]
+	path = diving-bell-talk
+	url = https://github.com/jebeck/diving-bell-talk.git
