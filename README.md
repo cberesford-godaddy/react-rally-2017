@@ -84,7 +84,7 @@ Local: N/A <br>
     + RTFM + nothing else existed
 
 - 5 Important Keys to Being a React Developer:
-    + 1. Know who's driving
+    + Know who's driving
         * In order to be a React developer, you need to know the following (Holy Trinity of React):
             - React
             - React-router
@@ -92,12 +92,35 @@ Local: N/A <br>
             - React-router-redux
         * It's getting more and more complicated, which is a possible deterrent for people looking into using React
         * What role does react play in your app?
-    + 2. Optimize for change
-    + 3. Know your component shapes (master the patterns)
-    + 4. Avoid the edges
+    + Optimize for change
+    + Know your component shapes (master the patterns)
+    + Avoid the edges
         * "Dont forget it's not the edge that's bleeding, it's you."
         * If you're the one using bleeding edge technology, you'll be feeling the pain
-    + 5. Partner, don't depend
+    + Partner, don't depend
         * "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug."
         * Stop delegating
+
+### What WebAssembly Means for React - Lin Clark - 11:30 AM
+Speaker: [Lin Clark](https://github.com/linclark) <br>
+Topic: What WebAssembly Means for React <br>
+Twitter: [@linclark](https://twitter.com/linclark) <br>
+Presentation Link: N/A <br>
+Local: N/A <br>
+
+**Notes:**
+- What is WebAssembly?
+    + From [webassembly.org](http://webassembly.org/): "WebAssembly or wasm is a new portable, size- and load-time-efficient format suitable for compilation to the web."
+    + It's possible/will be possible to update the DOM in the browser in programming languages other than JavaScript (such as C/C++)
+- Possible benefits
+    + Reuse code
+    + Run faster in the browser
+- WebAssembly can currently only understand `integers` and `floats`
+- Decoding WebAssembly is faster than parsing JavaScript
+- WebAssembly Flow
+    + parse
+    + compile + optimize
+    + re-optimize
+    + execute
+    + garbage collection
 
