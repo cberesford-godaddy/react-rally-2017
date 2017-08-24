@@ -1,0 +1,6 @@
+[submodule "react-d3"]
+	path = react-d3
+	url = https://github.com/sxywu/react-d3
+[submodule "unpkg-demos"]
+	path = unpkg-demos
+	url = https://github.com/unpkg/unpkg-demos.git
