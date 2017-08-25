@@ -19,4 +19,4 @@
     + raspi-io: https://github.com/nebrius/raspi-io - Provides IO for Johnny-Five on Raspberry Pi
     + react-hardware: https://github.com/iamdustan/react-hardware
 
-**TLDR**: This woman literally put an NFC chip in her hand so she can unlock her house by swiping her hand... because old school keys are overrated. Pretty intense stuff.
+**TLDR**: Put an NFC chip in your hand so you can unlock your doors... because old school keys are overrated.

@@ -39,4 +39,9 @@ http://www.reactrally.com/
 
 #### 2:30 PM - Demystifying setState() - Justice Mba - [Notes](notes/day2/demystifying-set-state.md)
 
+#### 4:00 PM - Better UIs with Finite Automata - David Khourshid - [Notes](notes/day2/finite-automata.md)
+
+#### 4:30 PM - Start a conversation between browser windows - Cara Kuei - [Notes](notes/day2/post-message-and-react.md)
+
+
 
