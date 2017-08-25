@@ -1,7 +1,7 @@
-## Start a conversation between browser windows - Cara Kuei - 4:00 PM
+## Start a conversation between browser windows - Cara Kuei - 4:30 PM
 **Speaker:** [Cara Kuei](https://github.com/carakuei) <br>
 **Topic:** Start a conversation between browser windows <br>
-**Twitter:** [@davidkpianon](https://twitter.com/carakuei) <br>
+**Twitter:** [@carakuei](https://twitter.com/carakuei) <br>
 **Presentation Link:** N/A <br>
 **Local:** N/A <br>
 

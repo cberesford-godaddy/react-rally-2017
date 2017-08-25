@@ -2,7 +2,7 @@
 **Speaker:** [David Khourshid](https://github.com/davidkpiano) <br>
 **Topic:** Infinitely Better UIs with Finite Automata <br>
 **Twitter:** [@davidkpianon](https://twitter.com/davidkpianon) <br>
-**Presentation Link:** N/A <br>
+**Presentation Link:** http://slides.com/davidkhourshid/finite-state-machines#/ <br>
 **Local:** N/A <br>
 
 **Notes:**

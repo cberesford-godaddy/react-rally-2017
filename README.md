@@ -43,5 +43,7 @@ http://www.reactrally.com/
 
 #### 4:30 PM - Start a conversation between browser windows - Cara Kuei - [Notes](notes/day2/post-message-and-react.md)
 
+#### 5:00 PM - I want you to contribute to open source - Max Stoiber - [Notes](notes/day2/opensource.md)
+
 
 
