@@ -33,3 +33,5 @@ http://www.reactrally.com/
 
 #### 11:00 AM - Scaling My First Enterprise React App! 🐙 - Jennifer Van - [Notes](notes/day2/scaling-enterprise-react.md)
 
+#### 11:30 AM - Mastering webpack from the inside out - Sean Larkin - [Notes](notes/day2/webpack.md)
+
