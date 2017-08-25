@@ -1,9 +1,9 @@
 ### React Native for Web - Nicolas Gallagher - 4:00 PM
-Speaker: [Nicolas Gallagher](https://github.com/necolas) <br>
-Topic: Twitter Lite, React Native, and Progressive Web Apps handwritten equations <br>
-Twitter: [@necolas](https://twitter.com/necolas) <br>
-Presentation Link: N/A <br>
-Local: N/A <br>
+**Speaker:** [Nicolas Gallagher](https://github.com/necolas) <br>
+**Topic:** Twitter Lite, React Native, and Progressive Web Apps handwritten equations <br>
+**Twitter:** [@necolas](https://twitter.com/necolas) <br>
+**Presentation Link:** N/A <br>
+**Local:** N/A <br>
 
 **Notes:**
 - React Native for Web: https://github.com/necolas/react-native-web

@@ -1,8 +1,8 @@
 ### D3 and React - Shirley Wu - 9:30 AM
-Speaker: [Shirley Wu](https://github.com/sxywu)<br>
-Topic: D3 and React<br>
-Presentation Link: https://github.com/sxywu/react-d3<br>
-Local: [react-d3](react-d3) <br>
+**Speaker:** [Shirley Wu](https://github.com/sxywu)<br>
+**Topic:** D3 and React<br>
+**Presentation Link:** https://github.com/sxywu/react-d3<br>
+**Local:** [react-d3](react-d3) <br>
 
 **Notes:**
 - Data visualization

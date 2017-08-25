@@ -1,9 +1,9 @@
 ### Mastering webpack from the inside out - Sean Larkin - 11:30 AM
-Speaker: [Sean Larkin](https://github.com/TheLarkInn) <br>
-Topic: Everything is a plugin!! Mastering webpack from the inside out <br>
-Twitter: [@TheLarkInn](http://twitter.com/TheLarkInn) <br>
-Presentation Link: N/A <br>
-Local: N/A <br>
+**Speaker:** [Sean Larkin](https://github.com/TheLarkInn) <br>
+**Topic:** Everything is a plugin!! Mastering webpack from the inside out <br>
+**Twitter:** [@TheLarkInn](http://twitter.com/TheLarkInn) <br>
+**Presentation Link:** N/A <br>
+**Local:** N/A <br>
 
 **Notes:**
 - Webpack learning resource: https://webpack.academy/

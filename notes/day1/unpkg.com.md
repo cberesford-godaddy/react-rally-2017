@@ -1,9 +1,9 @@
 ### Unpkg - Michael Jackson - 9:00 AM
-Speaker: [Michael Jackson](https://github.com/mjackson)<br>
-Topic: Unpkg.com<br>
-Twitter: [@unpkg](https://twitter.com/unpkg)<br>
-Demos: https://github.com/unpkg/unpkg-demos<br>
-Local: [unpkg-demos](unpkg-demos) <br>
+**Speaker:** [Michael Jackson](https://github.com/mjackson)<br>
+**Topic:** Unpkg.com<br>
+**Twitter:** [@unpkg](https://twitter.com/unpkg)<br>
+**Presentation Link:** https://github.com/unpkg/unpkg-demos<br>
+**Local:** [unpkg-demos](unpkg-demos) <br>
 
 **Notes:**
 - What is it?

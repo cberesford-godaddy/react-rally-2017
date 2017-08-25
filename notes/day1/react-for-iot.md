@@ -1,9 +1,9 @@
 ### React for IOT - Devon Lindsey - 10:30 AM
-Speaker: [Devon Lindsey](https://github.com/devonbl) <br>
-Topic: A Hand Wave of React for All Your Internet of Thangs <br>
-Twitter: [@devonbl](https://twitter.com/devonbl) <br>
-Presentation Link: N/A <br>
-Local: N/A <br>
+**Speaker:** [Devon Lindsey](https://github.com/devonbl) <br>
+**Topic:** A Hand Wave of React for All Your Internet of Thangs <br>
+**Twitter:** [@devonbl](https://twitter.com/devonbl) <br>
+**Presentation Link:** N/A <br>
+**Local:** N/A <br>
 
 **Notes:**
 - What the heck is NFC? Near Field Communication

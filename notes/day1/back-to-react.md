@@ -1,9 +1,9 @@
 ### Back to React - Michael Chan - 11:00 AM
-Speaker: [Michael Chan](https://github.com/chantastic) <br>
-Topic: Back to React: The Story of Two Apps <br>
-Twitter: [@chantastic](http://twitter.com/chantastic) <br>
-Presentation Link: N/A <br>
-Local: N/A <br>
+**Speaker:** [Michael Chan](https://github.com/chantastic) <br>
+**Topic:** Back to React: The Story of Two Apps <br>
+**Twitter:** [@chantastic](http://twitter.com/chantastic) <br>
+**Presentation Link:** N/A <br>
+**Local:** N/A <br>
 
 **Notes:**
 - React represents the V in MVC frameworks

@@ -1,9 +1,9 @@
 ### Layperson's guide to React Fiber - Ben Ilegbodu - 2:00 PM
-Speaker: [Ben Ilegbodu](https://github.com/benmvp) <br>
-Topic: Layperson's guide to React Fiber <br>
-Twitter: [@benmvp](https://twitter.com/benmvp) <br>
-Presentation Link: N/A <br>
-Local: N/A <br>
+**Speaker:** [Ben Ilegbodu](https://github.com/benmvp) <br>
+**Topic:** Layperson's guide to React Fiber <br>
+**Twitter:** [@benmvp](https://twitter.com/benmvp) <br>
+**Presentation Link:** N/A <br>
+**Local:** N/A <br>
 
 **Notes:**
 - What is React Fiber?
