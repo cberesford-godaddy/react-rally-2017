@@ -1,6 +1,7 @@
-### D3 and React - Shirley Wu - 9:30 AM
+## D3 and React - Shirley Wu - 9:30 AM
 **Speaker:** [Shirley Wu](https://github.com/sxywu)<br>
 **Topic:** D3 and React<br>
+**Twitter:** [@sxywu](https://twitter.com/sxywu) <br>
 **Presentation Link:** https://github.com/sxywu/react-d3<br>
 **Local:** [react-d3](react-d3) <br>
 

@@ -1,8 +1,8 @@
-### Redux + ServiceWorker = Offline React - Zack Argyle - 5:00 PM
+## Redux + ServiceWorker = Offline React - Zack Argyle - 5:00 PM
 **Speaker:** [Zack Argyle](https://github.com/zackargyle) <br>
 **Topic:** Redux + ServiceWorker = Offline React <br>
 **Twitter:** [@ZackArgyle](https://twitter.com/ZackArgyle) <br>
-Presentation: N/A <br>
+**Presentation Link**: N/A <br>
 **Local:** N/A <br>
 
 **Notes:**

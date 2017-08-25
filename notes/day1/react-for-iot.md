@@ -1,4 +1,4 @@
-### React for IOT - Devon Lindsey - 10:30 AM
+## React for IOT - Devon Lindsey - 10:30 AM
 **Speaker:** [Devon Lindsey](https://github.com/devonbl) <br>
 **Topic:** A Hand Wave of React for All Your Internet of Thangs <br>
 **Twitter:** [@devonbl](https://twitter.com/devonbl) <br>

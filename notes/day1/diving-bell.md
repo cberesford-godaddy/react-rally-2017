@@ -1,4 +1,4 @@
-### React-ing htmlFor=empathy - Jana Beck - 4:30 PM
+## React-ing htmlFor=empathy - Jana Beck - 4:30 PM
 **Speaker:** [Jana Beck](https://github.com/jebeck) <br>
 **Topic:** React-ing htmlFor=empathy <br>
 **Twitter:** [@BonnieMilianB](https://twitter.com/iPancreas) <br>

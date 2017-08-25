@@ -1,4 +1,4 @@
-### Back to React - Michael Chan - 11:00 AM
+## Back to React - Michael Chan - 11:00 AM
 **Speaker:** [Michael Chan](https://github.com/chantastic) <br>
 **Topic:** Back to React: The Story of Two Apps <br>
 **Twitter:** [@chantastic](http://twitter.com/chantastic) <br>

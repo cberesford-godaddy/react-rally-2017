@@ -1,4 +1,4 @@
-### ReacTex - Bonnie Milián - 2:30 PM
+## ReacTex - Bonnie Milián - 2:30 PM
 **Speaker:** [Bonnie Milián](https://github.com/BonnieMilian) <br>
 **Topic:** ReacTex: using React Native and Neural Networks to recognize handwritten equations <br>
 **Twitter:** [@BonnieMilianB](https://twitter.com/BonnieMilianB) <br>

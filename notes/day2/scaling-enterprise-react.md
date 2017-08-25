@@ -1,4 +1,4 @@
-### Scaling My First Enterprise React App! 🐙 - Jennifer Van - 11:00 AM
+## Scaling My First Enterprise React App! 🐙 - Jennifer Van - 11:00 AM
 **Speaker:** [Jennifer Van](https://github.com/sugargreenbean) <br>
 **Topic:** Scaling My First Enterprise React App! 🐙 <br>
 **Twitter:** [@sugargreenbean](https://twitter.com/sugargreenbean) <br>

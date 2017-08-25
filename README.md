@@ -35,3 +35,8 @@ http://www.reactrally.com/
 
 #### 11:30 AM - Mastering webpack from the inside out - Sean Larkin - [Notes](notes/day2/webpack.md)
 
+#### 2:00 PM - GraphQL IRL - Cameron Matheson - [Notes](notes/day2/graphql.md)
+
+#### 2:30 PM - Demystifying setState() - Justice Mba - [Notes](notes/day2/demystifying-set-state.md)
+
+

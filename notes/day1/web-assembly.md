@@ -1,4 +1,4 @@
-### What WebAssembly Means for React - Lin Clark - 11:30 AM
+## What WebAssembly Means for React - Lin Clark - 11:30 AM
 **Speaker:** [Lin Clark](https://github.com/linclark) <br>
 **Topic:** What WebAssembly Means for React <br>
 **Twitter:** [@linclark](https://twitter.com/linclark) <br>

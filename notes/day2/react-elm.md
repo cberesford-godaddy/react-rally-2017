@@ -1,4 +1,4 @@
-### Convergent Evolution: React and Elm - Evan Czaplicki - 9:30 AM
+## Convergent Evolution: React and Elm - Evan Czaplicki - 9:30 AM
 **Speaker:** [Evan Czaplicki](https://github.com/evancz) <br>
 **Topic:** Convergent Evolution: React and Elm <br>
 **Twitter:** [@czaplic](https://twitter.com/czaplic) <br>
