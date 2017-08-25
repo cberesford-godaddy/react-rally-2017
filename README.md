@@ -1,4 +1,4 @@
-# React Rally 2017 Notes
+# React Rally 2017
 Notes and Examples from React Rally 2017 in Salt Lake City, UT.<br>
 August 24-25th, 2017 <br>
 http://www.reactrally.com/
@@ -26,4 +26,10 @@ http://www.reactrally.com/
 #### 5:00 PM - Redux + ServiceWorker = Offline React - Zack Argyle - [Notes](notes/day1/service-workers.md)
 
 ## Day 2
+
+#### 9:30 AM - Convergent Evolution: React and Elm - Evan Czaplicki - [Notes](notes/day2/react-elm.md)
+
+#### 10:30 AM - So how does Babel even work? - Henry Zhu - [Notes](notes/day2/how-babel-works.md)
+
+#### 11:00 AM - Scaling My First Enterprise React App! 🐙 - Jennifer Van - [Notes](notes/day2/scaling-enterprise-react.md)
 
