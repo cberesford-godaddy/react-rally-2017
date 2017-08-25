@@ -238,3 +238,6 @@ if ('servieWorker' in navigator) {
     + Progressively loads app
     + Fast TTFP
     + **If you care about SEO, continue to server render**
+
+## Day 2
+

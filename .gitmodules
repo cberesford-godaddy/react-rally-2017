@@ -1,9 +1,9 @@
 [submodule "react-d3"]
-	path = react-d3
+	path = examples/react-d3
 	url = https://github.com/sxywu/react-d3
 [submodule "unpkg-demos"]
-	path = unpkg-demos
+	path = examples/unpkg-demos
 	url = https://github.com/unpkg/unpkg-demos.git
 [submodule "diving-bell-talk"]
-	path = diving-bell-talk
+	path = examples/diving-bell-talk
 	url = https://github.com/jebeck/diving-bell-talk.git
