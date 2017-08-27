@@ -1,8 +1,8 @@
-## So how does Babel even work? - Henry Zhu - 9:30 AM
+## So how does Babel even work? - Henry Zhu - 10:30 AM
 **Speaker:** [Henry Zhu](https://github.com/hzoo) <br>
-**Topic:** So how does Babel even work? Let's create the JSX transform to find out! <br>
+**Topic:** So how does Babel even work? <br>
 **Twitter:** [@left_pad](https://twitter.com/left_pad) <br>
-**Presentation Link:** N/A <br>
+**Presentation Link:** https://github.com/hzoo/so-how-does-babel-even-work <br>
 **Local:** N/A <br>
 
 **Notes:**
